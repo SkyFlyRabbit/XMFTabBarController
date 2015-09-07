@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC2BF6DC1B9D677E0012608A /* XMFTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2BF6D91B9D677E0012608A /* XMFTabBar.m */; };
+		EC2BF6DD1B9D677E0012608A /* XMFTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2BF6DB1B9D677E0012608A /* XMFTabBarButton.m */; };
 		ECE1BAF41B9D4D60004C32DB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ECE1BAF31B9D4D60004C32DB /* main.m */; };
 		ECE1BAF71B9D4D61004C32DB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ECE1BAF61B9D4D61004C32DB /* AppDelegate.m */; };
 		ECE1BAFA1B9D4D61004C32DB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ECE1BAF91B9D4D61004C32DB /* ViewController.m */; };
@@ -14,6 +16,13 @@
 		ECE1BAFF1B9D4D61004C32DB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BAFE1B9D4D61004C32DB /* Images.xcassets */; };
 		ECE1BB021B9D4D61004C32DB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB001B9D4D61004C32DB /* LaunchScreen.xib */; };
 		ECE1BB0E1B9D4D61004C32DB /* XMFTabBarDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ECE1BB0D1B9D4D61004C32DB /* XMFTabBarDemoTests.m */; };
+		ECE1BB1F1B9D5524004C32DB /* TabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = ECE1BB1E1B9D5524004C32DB /* TabBarController.m */; };
+		ECE1BB261B9D5618004C32DB /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB201B9D5618004C32DB /* 0.jpg */; };
+		ECE1BB271B9D5618004C32DB /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB211B9D5618004C32DB /* 1.jpg */; };
+		ECE1BB281B9D5618004C32DB /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB221B9D5618004C32DB /* 3.jpg */; };
+		ECE1BB291B9D5618004C32DB /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB231B9D5618004C32DB /* 4.jpg */; };
+		ECE1BB2A1B9D5618004C32DB /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB241B9D5618004C32DB /* 5.jpg */; };
+		ECE1BB2B1B9D5618004C32DB /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECE1BB251B9D5618004C32DB /* 6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +36,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EC2BF6D81B9D677E0012608A /* XMFTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMFTabBar.h; sourceTree = "<group>"; };
+		EC2BF6D91B9D677E0012608A /* XMFTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMFTabBar.m; sourceTree = "<group>"; };
+		EC2BF6DA1B9D677E0012608A /* XMFTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMFTabBarButton.h; sourceTree = "<group>"; };
+		EC2BF6DB1B9D677E0012608A /* XMFTabBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMFTabBarButton.m; sourceTree = "<group>"; };
 		ECE1BAEE1B9D4D60004C32DB /* XMFTabBarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XMFTabBarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECE1BAF21B9D4D60004C32DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ECE1BAF31B9D4D60004C32DB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +53,14 @@
 		ECE1BB071B9D4D61004C32DB /* XMFTabBarDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XMFTabBarDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECE1BB0C1B9D4D61004C32DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ECE1BB0D1B9D4D61004C32DB /* XMFTabBarDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XMFTabBarDemoTests.m; sourceTree = "<group>"; };
+		ECE1BB1D1B9D5524004C32DB /* TabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarController.h; sourceTree = "<group>"; };
+		ECE1BB1E1B9D5524004C32DB /* TabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarController.m; sourceTree = "<group>"; };
+		ECE1BB201B9D5618004C32DB /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		ECE1BB211B9D5618004C32DB /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		ECE1BB221B9D5618004C32DB /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		ECE1BB231B9D5618004C32DB /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		ECE1BB241B9D5618004C32DB /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		ECE1BB251B9D5618004C32DB /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +81,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EC2BF6D71B9D677E0012608A /* XMFTabBar */ = {
+			isa = PBXGroup;
+			children = (
+				EC2BF6D81B9D677E0012608A /* XMFTabBar.h */,
+				EC2BF6D91B9D677E0012608A /* XMFTabBar.m */,
+				EC2BF6DA1B9D677E0012608A /* XMFTabBarButton.h */,
+				EC2BF6DB1B9D677E0012608A /* XMFTabBarButton.m */,
+			);
+			path = XMFTabBar;
+			sourceTree = "<group>";
+		};
 		ECE1BAE51B9D4D60004C32DB = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +117,15 @@
 				ECE1BAF61B9D4D61004C32DB /* AppDelegate.m */,
 				ECE1BAF81B9D4D61004C32DB /* ViewController.h */,
 				ECE1BAF91B9D4D61004C32DB /* ViewController.m */,
+				ECE1BB1D1B9D5524004C32DB /* TabBarController.h */,
+				ECE1BB1E1B9D5524004C32DB /* TabBarController.m */,
+				EC2BF6D71B9D677E0012608A /* XMFTabBar */,
+				ECE1BB201B9D5618004C32DB /* 0.jpg */,
+				ECE1BB211B9D5618004C32DB /* 1.jpg */,
+				ECE1BB221B9D5618004C32DB /* 3.jpg */,
+				ECE1BB231B9D5618004C32DB /* 4.jpg */,
+				ECE1BB241B9D5618004C32DB /* 5.jpg */,
+				ECE1BB251B9D5618004C32DB /* 6.jpg */,
 				ECE1BAFB1B9D4D61004C32DB /* Main.storyboard */,
 				ECE1BAFE1B9D4D61004C32DB /* Images.xcassets */,
 				ECE1BB001B9D4D61004C32DB /* LaunchScreen.xib */,
@@ -199,9 +240,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECE1BB2B1B9D5618004C32DB /* 6.jpg in Resources */,
+				ECE1BB261B9D5618004C32DB /* 0.jpg in Resources */,
+				ECE1BB2A1B9D5618004C32DB /* 5.jpg in Resources */,
+				ECE1BB291B9D5618004C32DB /* 4.jpg in Resources */,
 				ECE1BAFD1B9D4D61004C32DB /* Main.storyboard in Resources */,
 				ECE1BB021B9D4D61004C32DB /* LaunchScreen.xib in Resources */,
+				ECE1BB281B9D5618004C32DB /* 3.jpg in Resources */,
 				ECE1BAFF1B9D4D61004C32DB /* Images.xcassets in Resources */,
+				ECE1BB271B9D5618004C32DB /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,7 +267,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				ECE1BAFA1B9D4D61004C32DB /* ViewController.m in Sources */,
+				ECE1BB1F1B9D5524004C32DB /* TabBarController.m in Sources */,
 				ECE1BAF71B9D4D61004C32DB /* AppDelegate.m in Sources */,
+				EC2BF6DD1B9D677E0012608A /* XMFTabBarButton.m in Sources */,
+				EC2BF6DC1B9D677E0012608A /* XMFTabBar.m in Sources */,
 				ECE1BAF41B9D4D60004C32DB /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -418,6 +468,7 @@
 				ECE1BB131B9D4D61004C32DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECE1BB141B9D4D61004C32DB /* Build configuration list for PBXNativeTarget "XMFTabBarDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +477,7 @@
 				ECE1BB161B9D4D61004C32DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
