@@ -40,6 +40,9 @@
     str = @"3";
     str = @"4";
     str = @"5";
+    
+//    NSString * str = @"5";
+    
 }
 
 - (void)didReceiveMemoryWarning
