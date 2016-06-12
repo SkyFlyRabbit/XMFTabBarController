@@ -10,13 +10,15 @@
 
 @interface TabBarController ()
 
+
+
 @end
 
 @implementation TabBarController
 
 - (void)viewDidLoad
 {
-    self.titleArray = @[@"山谷", @"海洋", @"陆地", @"河流", @"峡谷"];
+    self.titleArray = @[@"高山", @"海洋", @"陆地", @"河流", @"峡谷"];
     self.normalImageArray = @[[UIImage imageNamed:@"0.jpg"], [UIImage imageNamed:@"1.jpg"], [UIImage imageNamed:@"6.jpg"], [UIImage imageNamed:@"3.jpg"], [UIImage imageNamed:@"4.jpg"]];
     self.highlightedImageArray = @[[UIImage imageNamed:@"5.jpg"], [UIImage imageNamed:@"5.jpg"], [UIImage imageNamed:@"5.jpg"], [UIImage imageNamed:@"5.jpg"], [UIImage imageNamed:@"5.jpg"]];
     self.normalTitleColor = [UIColor blueColor];
