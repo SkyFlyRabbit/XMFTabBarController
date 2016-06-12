@@ -32,7 +32,14 @@
     [super viewDidLoad];
     
     self.changeOrder = 2;
+
+    NSString * str = @"12";
+    [str integerValue];
     
+    str = @"2";
+    str = @"3";
+    str = @"4";
+    str = @"5";
 }
 
 - (void)didReceiveMemoryWarning
