@@ -33,6 +33,8 @@
     
     self.changeOrder = 2;
     
+    NSString * str = @"5";
+    
 }
 
 - (void)didReceiveMemoryWarning
