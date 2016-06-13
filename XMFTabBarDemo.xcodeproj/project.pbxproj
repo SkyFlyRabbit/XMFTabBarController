@@ -38,6 +38,7 @@
 /* Begin PBXFileReference section */
 		37EB0BA51D0D4D6100FC4906 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		37EB0BA61D0D619100FC4906 /* Header1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header1.h; sourceTree = "<group>"; };
+		37FE9E461D0E817900DCA6FB /* Header11.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header11.h; sourceTree = "<group>"; };
 		EC2BF6D81B9D677E0012608A /* XMFTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMFTabBar.h; sourceTree = "<group>"; };
 		EC2BF6D91B9D677E0012608A /* XMFTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMFTabBar.m; sourceTree = "<group>"; };
 		EC2BF6DA1B9D677E0012608A /* XMFTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMFTabBarButton.h; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				ECE1BB1E1B9D5524004C32DB /* TabBarController.m */,
 				37EB0BA51D0D4D6100FC4906 /* Header.h */,
 				37EB0BA61D0D619100FC4906 /* Header1.h */,
+				37FE9E461D0E817900DCA6FB /* Header11.h */,
 				EC2BF6D71B9D677E0012608A /* XMFTabBar */,
 				ECE1BB201B9D5618004C32DB /* 0.jpg */,
 				ECE1BB211B9D5618004C32DB /* 1.jpg */,
